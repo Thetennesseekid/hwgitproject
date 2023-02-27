@@ -8,3 +8,5 @@
 	email = filipptlkin@gamil.com
 [alias]
 	history = log --graph 
+[core]
+	editor = code --wait
